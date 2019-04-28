@@ -11,5 +11,4 @@ PHP는 웹 서버상에서 쓰는 언어로, 일반 HTML+CSS+JS로는 DB접속�
 
 먼저 root권한으로 변경한다.
 
-<code> 'sudo su'
-
+<code> sudo su

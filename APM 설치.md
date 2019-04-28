@@ -37,4 +37,5 @@ mysql 설치하기
     #apt-get install mysql-server
     
 참고자료:https://blog.lael.be/post/73
+
 참고자료:https://zetawiki.com/wiki/%EC%9A%B0%EB%B6%84%ED%88%AC_MySQL_%EC%84%A4%EC%B9%98

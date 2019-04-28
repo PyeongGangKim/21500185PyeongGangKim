@@ -1,0 +1,7 @@
+# 1.웹 서비스 가동 체크
+
+리눅스에서 firefox에 들어가서 localhost라고 친 후 
+
+it works라고 써여있으면 웹 서비스가 가동되는 것이다.
+
+# localhost index 파일 수정

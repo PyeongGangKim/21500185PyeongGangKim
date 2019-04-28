@@ -7,4 +7,8 @@ PHP는 웹 서버상에서 쓰는 언어로, 일반 HTML+CSS+JS로는 DB접속�
 
 출처 https://gwonhouse.tistory.com/2
 
-## 2.Apache2  
+## 2.Apache2 설치하기
+
+먼저 root권한으로 변경한다.
+<code> sudo su
+

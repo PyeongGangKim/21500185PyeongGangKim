@@ -2,3 +2,60 @@
 https://www.ubuntu.com/
 우분투 홈페이지
 
+![우분투 다운로드`](https://user-images.githubusercontent.com/49421197/56864232-04d0a080-69fb-11e9-9c27-f44a8004ea47.jpg)
+
+우분투 desktop을 다운받아야된다. 그래야지 온전하 우분투를 다 이용할 수 있다.
+그리고 알집형태로 우분투64bit를 다운받을수 있다.
+
+![우분투 다운로드2](https://user-images.githubusercontent.com/49421197/56864249-334e7b80-69fb-11e9-979f-f9071fe00873.jpg)
+
+무료로 이용한다는 것을 체크하고 다음으로
+
+![우분투 다운로드3](https://user-images.githubusercontent.com/49421197/56864257-482b0f00-69fb-11e9-8399-6962d23c6364.jpg)
+
+가상머신을 새로 만드는 것을 체크
+
+![우분투 다운로드4](https://user-images.githubusercontent.com/49421197/56864263-685ace00-69fb-11e9-841d-a6a0cd3affb3.jpg)
+
+![우분투 다운로드5](https://user-images.githubusercontent.com/49421197/56864269-76105380-69fb-11e9-87f5-85de51a51f08.jpg)
+
+리눅스를 체크하고 ubunt 64bit를 체크한다.
+
+![우분투 다운로드6](https://user-images.githubusercontent.com/49421197/56864270-7872ad80-69fb-11e9-9002-9bffc5cc6af6.png)
+![우분투 다운로드7](https://user-images.githubusercontent.com/49421197/56864272-7a3c7100-69fb-11e9-971c-c3f69bb15310.png)
+
+자기가 할당받고 싶은 만큼 설정한다.
+
+![우분투 다운로드8](https://user-images.githubusercontent.com/49421197/56864274-
+7b6d9e00-69fb-11e9-8356-6953c9eb7224.jpg)
+
+customize hadware를 택한다.
+
+![우분투 다운로드9](https://user-images.githubusercontent.com/49421197/56864276-7e688e80-69fb-11e9-908f-17ddce596147.jpg)
+
+빨간색 네모칸 친 세개를 지운다.(usb controller, sound card, printer)
+
+![우분투 다운로드10](https://user-images.githubusercontent.com/49421197/56864302-db644480-69fb-11e9-8f97-8d5fb12a26e5.jpg)
+
+new cd/dvd를 누른 후 use iso image file를 체크한후 아까 다운받아놓은 ubunt iso알집파일을 선택한다.
+
+![우분투 다운로드11](https://user-images.githubusercontent.com/49421197/56864303-dd2e0800-69fb-11e9-87cb-3d735f5763de.png)
+![우분투 다운로드12](https://user-images.githubusercontent.com/49421197/56864304-de5f3500-69fb-11e9-9118-44c5500455e3.png)
+
+ubunt64bit가 vmware에 생긴다. 그것을 더블클릭한다.
+
+![우분투 다운로드13](https://user-images.githubusercontent.com/49421197/56864305-df906200-69fb-11e9-8cb2-f65be8a22cc0.png)
+
+한국어를 선택하고 ubunt 설치를 한다.
+
+![우분투 다운로드14](https://user-images.githubusercontent.com/49421197/56864306-e0c18f00-69fb-11e9-89e0-bc7c3909d93e.jpg)
+![우분투 다운로드15](https://user-images.githubusercontent.com/49421197/56864307-e28b5280-69fb-11e9-86c3-ea583196d0c0.jpg)
+
+일반설치를 선택한다.
+
+![우분투 다운로드16](https://user-images.githubusercontent.com/49421197/56864308-e4551600-69fb-11e9-9ae7-e3fb1d54e7a8.jpg)
+
+디스크를 지우고 ubunt를 설치를 누른다.
+기타를 누르면 더 이상 진행되지 않아 다시 vmware를 껐다켜야하는 번거로움이 생긴다.
+
+![2019-04-28 (27)](https://user-images.githubusercontent.com/49421197/56864309-e5864300-69fb-11e9-8350-9470a0b335dd.png)

@@ -38,6 +38,8 @@ Resolver:
 
 # 3. DNS 가동되는 단계
 
+ex1)
+
 (1) 브라우저가 설치된 컴퓨터는 www.google.com 의 IP를 알아내기 위해서 가장 가까운 곳에 위치한(클라이언트에 등록된 ) DNS 서버에 www.google.com 의 IP 주소를 문의 합니다.
 
 (2) 가장 가까운 DNS 서버가 IP주소를 알고 있다면 즉시 IP 주소를 알려 줍니다. 하지만 가장 가까운 DNS 서버가 IP 주소를 모르면 루트 도메인 네임서버에게 문의를 합니다. 
@@ -60,3 +62,23 @@ Resolver:
 (10) 가장 가까운 DNS 서버는 이 IP 주소를 클라이언트에게 알려 주게 됩니다.
 
 참고자료:https://m.blog.naver.com/PostView.nhn?blogId=sthox18&logNo=220411792949&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
+
+ex2)
+(1) www.naver.com이라고 검색하면 사용자의 PC에 설정되어 있는 Local DNS라는 곳에 www.naver.com의 IP주소를 물어봅니다.
+
+(2) Local DNS에 www.naver.com의 IP주소가 없다면, Root Dns에 찾아가서 www.naver.com의 주소를 묻는다.
+
+(3) Root DNS가 www.naver.com의 주소를 알지 못한다면, 최상위 도메인 .com을 보고 .com이 등록된 네임서버의 IP어드레스를 알려준다.
+
+(4) 다시 Local DNS가 .com 도메인을 관리하는 네임서버에게 문의한다.
+
+(5) .com 네임서버는 naver.com의 네임서버의 IP주소를 알려준다.
+
+(6) 다시 Local DNS가 naver.com 네임서버에게 문의하고
+
+(7) naver.com 네임서버는 www.naver.com의 IP주소인 222.122.195.6을 알려준다.
+
+(8) Local DNS는 알게된 IP주소를 PC에게 전달하고 PC는 사용자에게 성곡적으로 인터넷에 접속된 화면을 보여준다.
+
+참고자료:https://m.blog.naver.com/PostView.nhn?blogId=daouidc&logNo=220880345370&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F

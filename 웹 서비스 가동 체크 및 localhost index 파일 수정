@@ -5,32 +5,38 @@
 it works라고 써여있으면 웹 서비스가 가동되는 것이다.
 그리고 그것은 default로 설정되어있는 홈페이지이다.
 
-# localhost index 파일 수정
+# 2.localhost index 파일 수정
 
-
-![2019-04-29 (1)](https://user-images.githubusercontent.com/49421197/56878156-8a049580-6a8d-11e9-8282-43f7f4d26400.png)
+![localhost변경1](https://user-images.githubusercontent.com/49421197/56878218-e8ca0f00-6a8d-11e9-98eb-ea03f1a74e77.png)
 
 root에 읽기 쓰기 권한이 있기 때문에 root로 들어간다.
+![localhost변경2](https://user-images.githubusercontent.com/49421197/56878230-01d2c000-6a8e-11e9-9111-df899dc55e7e.png)
 
-![2019-04-29 (2)](https://user-images.githubusercontent.com/49421197/56877992-b66be200-6a8c-11e9-915d-4d4746f69196.png)
 
 절대 경로를 사용해 root에 있는 var를 들어간다.
 
-![2019-04-29 (4)](https://user-images.githubusercontent.com/49421197/56878021-d4394700-6a8c-11e9-9a40-624f1d7e7460.png)
+![localhost변경3](https://user-images.githubusercontent.com/49421197/56878231-039c8380-6a8e-11e9-8f7c-f2d017fbb256.png)
+
 
 var에 있는 www디렉토리에 들어간다.
+![localhost변경4](https://user-images.githubusercontent.com/49421197/56878232-07300a80-6a8e-11e9-84fd-592620996daa.png)
 
-![2019-04-29 (5)](https://user-images.githubusercontent.com/49421197/56878065-1a8ea600-6a8d-11e9-8d73-07238ada1fb3.png)
+
 
 www에 있는 html디렉토리에 들어간다.
 
-![2019-04-29 (6)](https://user-images.githubusercontent.com/49421197/56878073-267a6800-6a8d-11e9-99a7-31dfe19dd6a0.png)
+![localhost변경5](https://user-images.githubusercontent.com/49421197/56878234-09926480-6a8e-11e9-84b5-c5562db32d78.png)
+
 
 index.html에 있는 내용을 hello world로 변환한다.
 
-![2019-04-29 (7)](https://user-images.githubusercontent.com/49421197/56878088-32fec080-6a8d-11e9-9f69-858d250865e1.png)
+
+![localhost변경6](https://user-images.githubusercontent.com/49421197/56878245-14e59000-6a8e-11e9-8557-77c7e823d6c8.png)
+
 
 localhost의 내용이 아까 변경한 것처럼 hello world가 나타난다.
+
+
 
 
 

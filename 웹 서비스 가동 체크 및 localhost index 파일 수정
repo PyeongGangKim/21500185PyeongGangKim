@@ -7,7 +7,8 @@ it works라고 써여있으면 웹 서비스가 가동되는 것이다.
 
 # localhost index 파일 수정
 
-![2019-04-29 (1)](https://user-images.githubusercontent.com/49421197/56877977-a94ef300-6a8c-11e9-9be5-4f3c4bd1c810.png)
+
+![2019-04-29 (1)](https://user-images.githubusercontent.com/49421197/56878156-8a049580-6a8d-11e9-8282-43f7f4d26400.png)
 
 root에 읽기 쓰기 권한이 있기 때문에 root로 들어간다.
 

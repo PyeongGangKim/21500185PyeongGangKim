@@ -65,6 +65,7 @@ ex1)
 
 
 ex2)
+
 (1) www.naver.com이라고 검색하면 사용자의 PC에 설정되어 있는 Local DNS라는 곳에 www.naver.com의 IP주소를 물어봅니다.
 
 (2) Local DNS에 www.naver.com의 IP주소가 없다면, Root Dns에 찾아가서 www.naver.com의 주소를 묻는다.

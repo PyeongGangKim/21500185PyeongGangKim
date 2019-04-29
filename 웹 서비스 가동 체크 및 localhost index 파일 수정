@@ -3,5 +3,34 @@
 리눅스에서 firefox에 들어가서 localhost라고 친 후 
 
 it works라고 써여있으면 웹 서비스가 가동되는 것이다.
+그리고 그것은 default로 설정되어있는 홈페이지이다.
 
 # localhost index 파일 수정
+
+![2019-04-29 (1)](https://user-images.githubusercontent.com/49421197/56877977-a94ef300-6a8c-11e9-9be5-4f3c4bd1c810.png)
+
+root에 읽기 쓰기 권한이 있기 때문에 root로 들어간다.
+
+![2019-04-29 (2)](https://user-images.githubusercontent.com/49421197/56877992-b66be200-6a8c-11e9-915d-4d4746f69196.png)
+
+절대 경로를 사용해 root에 있는 var를 들어간다.
+
+![2019-04-29 (4)](https://user-images.githubusercontent.com/49421197/56878021-d4394700-6a8c-11e9-9a40-624f1d7e7460.png)
+
+var에 있는 www디렉토리에 들어간다.
+
+![2019-04-29 (5)](https://user-images.githubusercontent.com/49421197/56878065-1a8ea600-6a8d-11e9-8d73-07238ada1fb3.png)
+
+www에 있는 html디렉토리에 들어간다.
+
+![2019-04-29 (6)](https://user-images.githubusercontent.com/49421197/56878073-267a6800-6a8d-11e9-99a7-31dfe19dd6a0.png)
+
+index.html에 있는 내용을 hello world로 변환한다.
+
+![2019-04-29 (7)](https://user-images.githubusercontent.com/49421197/56878088-32fec080-6a8d-11e9-9f69-858d250865e1.png)
+
+localhost의 내용이 아까 변경한 것처럼 hello world가 나타난다.
+
+
+
+

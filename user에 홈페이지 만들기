@@ -1,0 +1,7 @@
+1.pyeonggang계정에서 html directory만들고, index.php파일을 생성
+
+2.sudo su로 들어가 cd /etc/apache2/sites-available에 들어간다.
+
+3.vim 000-default.conf로 들어간다.
+
+4.documentroot /home/pyeonggang/html로 바꾼다.

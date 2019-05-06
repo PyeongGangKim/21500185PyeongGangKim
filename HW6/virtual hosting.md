@@ -40,7 +40,7 @@ html디렉토리에 index.html파일 생성
 
 # 3. wordpress 세팅!
 
-# 1. database 만들기!!
+## 1. database 만들기!!
 [전에 했던 방법](https://github.com/PyeongGangKim/21500185PyeongGangKim/blob/master/HW6/wordpress.md)
 
 root 계정으로 들어가서
@@ -58,3 +58,27 @@ database을 만들기
 ![2019-05-06 (41)](https://user-images.githubusercontent.com/49421197/57216131-f3eee300-7029-11e9-8ebb-5006ce6cb925.png)
 
 생성한 사용자 계정에게 데이터 베이스 사용 권한을 부여
+
+![2019-05-06 (42)](https://user-images.githubusercontent.com/49421197/57222768-bea0c000-703e-11e9-87b2-f0c09630bcdc.png)
+
+변경사항을 저장하고 종료한다.
+
+## 2.wordpress 설치 및 config 파일 수정
+
+wordpress 설치하고 config파일 수정은 전에 했던 아래 링크를 참고하면 된다.
+
+[wordpress](https://github.com/PyeongGangKim/21500185PyeongGangKim/blob/master/HW6/wordpress.md)
+
+![2019-05-06 (46)](https://user-images.githubusercontent.com/49421197/57222888-3b339e80-703f-11e9-9152-f234848c3720.png)
+
+kim의 wordpress가 만들어 졌다.
+
+## 3.또 다른 계정 pg13
+
+다른 계정인 pg13도 위에 방법 그대로 따라하면된다.
+
+![2019-05-06 (48)](https://user-images.githubusercontent.com/49421197/57222986-89e13880-703f-11e9-99f8-b565c09ef8c4.png)
+
+pg13계정에도 wordpress가 만들어진 것을 확인할 수 있다.
+
+

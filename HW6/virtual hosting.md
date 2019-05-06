@@ -39,3 +39,22 @@ html디렉토리에 index.html파일 생성
 ![2019-05-06 (46)](https://user-images.githubusercontent.com/49421197/57215853-1a604e80-7029-11e9-8225-49bcabe9f83b.png)
 
 # 3. wordpress 세팅!
+
+# 1. database 만들기!!
+[전에 했던 방법](https://github.com/PyeongGangKim/21500185PyeongGangKim/blob/master/HW6/wordpress.md)
+
+root 계정으로 들어가서
+mysql -uroot -p 
+명령어로 mysql에 접속
+
+![2019-05-06 (39)](https://user-images.githubusercontent.com/49421197/57215912-4ed40a80-7029-11e9-83bc-3b52239903b4.png)
+
+database을 만들기
+
+![ss1](https://user-images.githubusercontent.com/49421197/57216076-c1dd8100-7029-11e9-93ac-0b3aaf1d3544.jpg)
+
+생성한 데이터베이스의 사용자계정 만들기
+
+![2019-05-06 (41)](https://user-images.githubusercontent.com/49421197/57216131-f3eee300-7029-11e9-8ebb-5006ce6cb925.png)
+
+생성한 사용자 계정에게 데이터 베이스 사용 권한을 부여

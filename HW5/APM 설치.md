@@ -7,7 +7,7 @@ PHP는 웹 서버상에서 쓰는 언어로, 일반 HTML+CSS+JS로는 DB접속�
 
 출처 https://gwonhouse.tistory.com/2
 
-## 2.Apache2 설치하기
+# 2.Apache2 설치하기
 
 먼저 root권한으로 변경한다.
 
@@ -20,7 +20,7 @@ Apache2 설치
 버전체크
    
     apache2-v
-### 3.Php 설치하기
+# 3.Php 설치하기
 
 앞에서 root권한으로 변경했기 때문에 또 변경할 필요가 없다.
 
@@ -28,7 +28,7 @@ Apache2 설치
 
     #apt-get install php
 
-#### 4. mysql 설치하기
+# 4. mysql 설치하기
 
 이것도 앞에서 root권한으로 변경해서 따로 변경할 필요가 없다.
 

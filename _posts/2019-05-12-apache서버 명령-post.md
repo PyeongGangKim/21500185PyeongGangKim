@@ -1,3 +1,8 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-05-12 01:52:02 -0400
+categories: jekyll update
+---
 # 1. apache 상태확인
 
     service apahce2 status라는 명령어를 통해 상태 확인

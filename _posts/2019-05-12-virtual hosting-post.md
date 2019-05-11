@@ -23,7 +23,8 @@ html디렉토리에 index.html파일 생성
 ## 3. conf 파일 복사 후 수정
 ![2019-05-06 (35)](https://user-images.githubusercontent.com/49421197/57215406-be48fa80-7027-11e9-8c8a-a3da22ffb276.png)
 
-[전에 했던거 참고하기](https://github.com/PyeongGangKim/21500185PyeongGangKim/blob/master/HW6/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%A6%84%20%EC%84%B8%ED%8C%85%20%EB%B0%8F%20%ED%98%B8%EC%8A%A4%ED%8A%B8%20%EB%B3%80%EA%B2%BD.md)
+[전에 했던거 참고하기]
+(https://github.com/PyeongGangKim/21500185pyeonggangkim.github.io/blob/master/_posts/22019-05-02-%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%A6%84%20%EC%84%B8%ED%8C%85%20%EB%B0%8F%20%ED%98%B8%EC%8A%A4%ED%8A%B8%20%EB%B3%80%EA%B2%BD-post.md)
 
 ![2019-05-06 (37)](https://user-images.githubusercontent.com/49421197/57215737-c35a7980-7028-11e9-8410-f1695c74ed52.png)
 
@@ -46,7 +47,7 @@ html디렉토리에 index.html파일 생성
 # 3. wordpress 세팅!
 
 ## 1. database 만들기!!
-[전에 했던 방법](https://github.com/PyeongGangKim/21500185PyeongGangKim/blob/master/HW6/wordpress.md)
+[전에 했던 방법](https://github.com/PyeongGangKim/21500185pyeonggangkim.github.io/blob/master/_posts/2019-05-12-wordpress-post.md)
 
 root 계정으로 들어가서
 mysql -uroot -p 

@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2019-5-12 08:26:28 -0400
+date: 2019-05-12
 categories: jekyll update
 ---
 # 1.APM이란

@@ -1,3 +1,8 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-05-12 01:46:02 -0400
+categories: jekyll update
+---
 # 1. CMS란 
   
   인터넷을 통해 제공하는 각종 정보나 그 내용물들을 관리하는 시스템이다. ex) wordpress,drupal,joomla

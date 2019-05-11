@@ -1,3 +1,8 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-05-12 01:47:02 -0400
+categories: jekyll update
+---
 # 1. phpmyadmin 설치
 
 ![phpmyadmin 설치](https://user-images.githubusercontent.com/49421197/57193274-3fdf5080-6f74-11e9-98b6-ec9559d6da66.png)

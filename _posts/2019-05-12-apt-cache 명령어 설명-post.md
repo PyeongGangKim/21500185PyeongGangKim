@@ -1,3 +1,8 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-05-12 01:50:02 -0400
+categories: jekyll update
+---
 # 1. apt-cache stats 
 
 ![apt-cache stats1](https://user-images.githubusercontent.com/49421197/57188716-769a7400-6f3e-11e9-9e6c-2e511f53ed27.png)

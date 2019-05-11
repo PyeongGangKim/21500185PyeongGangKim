@@ -1,3 +1,8 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-05-12 01:50:02 -0400
+categories: jekyll update
+---
 # 1.apt-get install
 
 ![apt-get install](https://user-images.githubusercontent.com/49421197/57180228-90e23c80-6ec1-11e9-986d-62171872e84b.png)

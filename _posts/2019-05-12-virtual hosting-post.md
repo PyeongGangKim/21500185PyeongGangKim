@@ -1,3 +1,8 @@
+---
+title: "HW7"
+date: 2019-05-12 01:54:02 -0400
+categories: jekyll update
+---
 # 1. Virtual Hosting이란
 
   하나의 물리적인 서버에서 2개 이상의 웹 사이트를 서비스 할 수 있도록 하는 방법

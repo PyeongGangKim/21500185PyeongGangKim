@@ -1,3 +1,8 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-05-12 01:49:02 -0400
+categories: jekyll update
+---
 # 1. mysql 설치
 
 ![mysql 설치](https://user-images.githubusercontent.com/49421197/57192519-7022f100-6f6c-11e9-9fb3-682a4d8990ce.png)

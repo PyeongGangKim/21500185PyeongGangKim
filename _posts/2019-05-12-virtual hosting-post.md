@@ -72,7 +72,7 @@ database을 만들기
 
 wordpress 설치하고 config파일 수정은 전에 했던 아래 링크를 참고하면 된다.
 
-[wordpress](https://github.com/PyeongGangKim/21500185PyeongGangKim/blob/master/HW6/wordpress.md)
+[wordpress](https://github.com/PyeongGangKim/21500185pyeonggangkim.github.io/blob/master/_posts/2019-05-12-wordpress-post.md)
 
 ![2019-05-06 (46)](https://user-images.githubusercontent.com/49421197/57222888-3b339e80-703f-11e9-9152-f234848c3720.png)
 

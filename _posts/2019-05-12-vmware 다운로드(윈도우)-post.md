@@ -1,3 +1,8 @@
+---
+title: "Welcome to Jekyll!"
+date: 2019-05-12 01:42:02 -0400
+categories: jekyll update
+---
 ### **VMware 소프트웨어 설치**
 vmware 다운로드 홈페이지
 https://www.vmware.com/kr.html

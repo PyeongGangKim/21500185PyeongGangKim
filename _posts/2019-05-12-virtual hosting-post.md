@@ -29,6 +29,11 @@ html디렉토리에 index.html파일 생성
 
 도메인 이름으로 구분할수 있다!!
 
+![2019-05-12 (5)](https://user-images.githubusercontent.com/49421197/57581628-061ec480-74f5-11e9-84c0-fbbb8e0951da.png)
+
+
+peace.com도 추가!!
+
 ## 4. 결과
 
 ![2019-05-06 (36)](https://user-images.githubusercontent.com/49421197/57215601-5b0b9800-7028-11e9-9124-9ba9b8f2f3c5.png)
@@ -42,6 +47,11 @@ html디렉토리에 index.html파일 생성
 이것도 다른 도메인 이름을 사용해서 구분한다!!
 
 ![2019-05-06 (46)](https://user-images.githubusercontent.com/49421197/57215853-1a604e80-7029-11e9-8225-49bcabe9f83b.png)
+
+## 6. 세번째 계정 peace
+
+![2019-05-12 (6)](https://user-images.githubusercontent.com/49421197/57581636-1a62c180-74f5-11e9-8a8c-3a8b4dae0533.png)
+
 
 # 3. wordpress 세팅!
 

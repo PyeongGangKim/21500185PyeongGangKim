@@ -110,6 +110,7 @@ wordpress의 테마를 바꾸려면 wordpress의 관리자 모드로 들어가�
 
 그 후 menu에 들어가서 테마 디자인 혹은 appearance에 들아가 themes 원하는 테마를 선택해서 활성화 시키면 된다.
 
+
 ![2019-05-12 (1)](https://user-images.githubusercontent.com/49421197/57581362-61e74e80-74f1-11e9-88dd-4bcb76d9482a.png)
 
 ![2019-05-12 (2)](https://user-images.githubusercontent.com/49421197/57581363-657ad580-74f1-11e9-890b-86e7a2e7a5ed.png)

@@ -86,4 +86,25 @@ kim의 wordpress가 만들어 졌다.
 
 pg13계정에도 wordpress가 만들어진 것을 확인할 수 있다.
 
+## 4. 세 번쨰 계정 peace
+
+위와 같은 방법으로 peace에도 wordpress를 만들었다.
+
+![2019-05-12](https://user-images.githubusercontent.com/49421197/57581268-0bc5db80-74f0-11e9-9adc-704d00a6e19a.png)
+
+# 5.wordpress 테마 바꾸기
+
+wordpress의 테마를 바꾸려면 wordpress의 관리자 모드로 들어가야 된다.
+
+도메인 이름/wp-admin으로 들어간다.
+
+그 후 menu에 들어가서 테마 디자인 혹은 appearance에 들아가 themes 원하는 테마를 선택해서 활성화 시키면 된다.
+
+![2019-05-12 (1)](https://user-images.githubusercontent.com/49421197/57581362-61e74e80-74f1-11e9-88dd-4bcb76d9482a.png)
+
+![2019-05-12 (2)](https://user-images.githubusercontent.com/49421197/57581363-657ad580-74f1-11e9-890b-86e7a2e7a5ed.png)
+
+![2019-05-12 (3)](https://user-images.githubusercontent.com/49421197/57581364-67449900-74f1-11e9-8264-f483dd9f3d28.png)
+
+이렇게 세 개를 다 다른 테마로 바꿔봤다~!!
 
